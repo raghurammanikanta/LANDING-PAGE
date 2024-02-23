@@ -1,1 +1,1 @@
-# LANDING-PAGE
+This is a simple landing page template for a fictional company called Agrihub. It consists of a navigation bar, a main content section displayed using an iframe, and a footer. The navigation bar allows users to navigate between different pages such as Home, About, Services, and Contact.
